@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.8.34525.116
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WebVideoStreamingApi", "WebVideoStreamingApi\WebVideoStreamingApi.csproj", "{2E0E32B4-4A2E-4A20-9B16-DD50890A16BC}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{2E0E32B4-4A2E-4A20-9B16-DD50890A16BC}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2E0E32B4-4A2E-4A20-9B16-DD50890A16BC}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{2E0E32B4-4A2E-4A20-9B16-DD50890A16BC}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{2E0E32B4-4A2E-4A20-9B16-DD50890A16BC}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {1DD7FDD7-70A2-4A36-A2F3-85F37A6E9EB9}
+	EndGlobalSection
+EndGlobal
